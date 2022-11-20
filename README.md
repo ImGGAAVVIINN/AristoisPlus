@@ -1,2 +1,2 @@
-# AristoisPlus2
+# AristoisPlus
 Aristois Client but add some useful stuff on top
